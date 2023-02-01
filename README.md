@@ -1,4 +1,4 @@
-# 🌊 Digispark Script - 
+# 🌊 Digispark Script - Execute Powershell
 - Completed On: February 1th 2023
 
 ### How to use:
